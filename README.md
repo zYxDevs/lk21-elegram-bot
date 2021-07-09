@@ -41,7 +41,7 @@ Now Run The Bot
 Congrats For You Bot!!
 
 ## Library In Use
-[Grammy](https://grammy.dev)
+[Telegraf](https://telegraf.js.org)
 
 ## Tools
 [Visual Studio Code](https://code.visualstudio.com/download)
