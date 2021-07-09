@@ -8,33 +8,33 @@
 this is a bot to search for movies. For how to install, see below
 
 ## Require
-['Node Js'](https://nodejs.org/en/download/)
-['Git'](https://git-scm.com/download)
+[`Node Js`](https://nodejs.org/en/download/)
+[`Git`](https://git-scm.com/download)
 
 ## Installing
 
-'''
+```
 > git clone https://github.com/nekozu/lk21-elegram-bot
 > cd lk21-elegram-bot
-'''
+```
 
 Install npm package
 
-'''
+```
 > npm i
-'''
+```
 
 Replace Bot Token With Your Bot Token On File [index.js](https://github.com/nekozu/lk21-elegram-bot/blob/002f3e80fe5032bf17ed07c375a43843e6ab634b/index.js#L6)
 
-'''
+```
 const bot = new Telegraf('Bot Token')
-'''
+```
 
 Now Run The Bot
 
-'''
+```
 > node index.js
-''' 
+```
 
 ## Done
 
