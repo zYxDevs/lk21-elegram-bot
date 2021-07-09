@@ -49,7 +49,7 @@ bot.command('film', (ctx) => {
 
 bot.command('terbaru', (ctx) => {
     ctx.reply('Waitt...')
-    ctx.deleteMessagec
+    ctx.deleteMessage
     let input = ctx.message.text;
     let inputArray = input.split("film ");
     inputArray.shift();
@@ -67,7 +67,7 @@ bot.command('terbaru', (ctx) => {
 
 bot.command('soon', (ctx) => {
     ctx.reply('Waitt...')
-    ctx.deleteMessagec
+    ctx.deleteMessage
     let input = ctx.message.text;
     let inputArray = input.split("film ");
     inputArray.shift();
