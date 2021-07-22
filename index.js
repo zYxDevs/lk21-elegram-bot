@@ -3,7 +3,7 @@ const axios = require('axios')
 const updateLogger = require('telegraf-update-logger');
 const chalk = require('chalk');
                                                                                           
-const bot = new Telegraf('Bot Token')
+const bot = new Telegraf(process.env.token)
 
 let zhirr = 'zahirgans'
 
