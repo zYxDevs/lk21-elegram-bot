@@ -2,7 +2,7 @@
   "dependencies": {
     "axios": "^0.21.4",
     "chalk": "^4.1.2",
-    "telegraf": "^4.4.2",
+    "telegraf": "^4.9.1",
     "telegraf-update-logger": "^1.5.0"
   },
   "name": "filmbot",
